@@ -1,3 +1,6 @@
+## About the course
+final version of the course of GQL from FONTEND MASTER url: https://frontendmasters.com/courses/graphql/
+
 # Intro to GraphQL
 > Scott Moss & Frontend Masters
 
